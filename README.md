@@ -1,4 +1,4 @@
-**Data Analytics Portfolio – Gift Ikem**
+**Data Analysis Portfolio – Gift Ikem**
 
 **Projects**
 * SQL Retail Sales Analysis
