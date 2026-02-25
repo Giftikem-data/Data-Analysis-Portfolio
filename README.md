@@ -7,6 +7,6 @@
 ](https://github.com/Giftikem-data/Retail-Sales-Analysis)
 
 * Digital Marketing Campaign Performance – Power BI
-- Developed a 3-page interactive Power BI report evaluating ROI, campaign efficiency, and budget allocation strategies.
+- Developed a 3-page interactive Power BI report evaluating campaign efficiency, ROI, and budget allocation strategies.
 [View Project
-](url)
+](https://github.com/Giftikem-data/Marketing-Campaign-Report)
